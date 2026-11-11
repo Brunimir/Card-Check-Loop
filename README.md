@@ -2,7 +2,7 @@
 
 **A worked example of how to document an AI system and its factories, so that every element can be read the same way.**
 
-Introduction Video: https://www.youtube.com/watch?v=X5_JfXsu_8s
+Introduction Video: https://youtu.be/0bG6p7HrocE
 
 A better prompt fixes one workflow. It cannot keep twenty aligned. Card, Check, Loop is the framework around the workflows: how each one is defined, checked and improved, and how a new one joins without starting from zero.
 
